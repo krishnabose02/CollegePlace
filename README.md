@@ -4,3 +4,5 @@
 * Krishna Bose
 * Mayukh Sengupta
 * Ankan Mukherjee
+* Sumit Roy
+* Rupak Sarkar
