@@ -1,5 +1,6 @@
-#Online 2nd hand book for college
-###Contributors
+## Online 2nd hand book store for college
+
+**Contributors**
 * Krishna Bose
 * Mayukh Sengupta
-* Ankan
+* Ankan Mukherjee
