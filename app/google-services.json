@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560271102206",
+    "firebase_url": "https://theboringmyproject.firebaseio.com",
+    "project_id": "theboringmyproject",
+    "storage_bucket": "theboringmyproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560271102206:android:d2ca0e08bceddebf",
+        "android_client_info": {
+          "package_name": "com.kgecdevs.onlinemarket.collegeplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560271102206-j1rv99srl12bh8d3ut96pov169cv1r6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kgecdevs.onlinemarket.collegeplace",
+            "certificate_hash": "5ed13ff69302cd0f557972055769cee55d5c5df2"
+          }
+        },
+        {
+          "client_id": "560271102206-1s1v12rrd4uesmtm4i6r67g48bd2p2q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywiS_gyNAX6VdgBkN8LRQOQBwJ7ld3Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560271102206-1s1v12rrd4uesmtm4i6r67g48bd2p2q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
